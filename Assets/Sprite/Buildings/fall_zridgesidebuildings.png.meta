@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 442338effc0ab2f439e3baff036a2786
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 912
+        width: 112
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4973308, y: 0.17702648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d7cbc5d6e13248930dc3090078ddf
+      internalID: -706225429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 947
+        width: 7
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e41278fce3224a847581d72dc2561
+      internalID: -1643801233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 784
+        width: 241
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae779167a360ac4f889c78e39dfe305
+      internalID: -731143507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_5
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 993
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3741b29e409b547bd8bc9865910f43
+      internalID: 158988405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 992
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190048cc81549884e9d3a30d709457d3
+      internalID: -2087729938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 80
+        height: 113
+      alignment: 9
+      pivot: {x: 0.49376068, y: 0.21067904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f6fded3e041b4ca2602e840ce7a4d
+      internalID: 1455888111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 608
+        width: 112
+        height: 161
+      alignment: 9
+      pivot: {x: 0.47484753, y: 0.15005854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3feb1d19af21544af7abfcd09cdd4c
+      internalID: 840126989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_9
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 400
+        width: 64
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4889965, y: 0.3115372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a743b962228c0448b9404812b70e8e6
+      internalID: 1626315726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 48
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5293438, y: 0.27463785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88377728534ac52488fef4ea30f2600d
+      internalID: -1982965865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2edad2fb71d0b140adbbc9a1e020631
+      internalID: -779720988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f2a5f4af6990469e71ee5e9561ad6
+      internalID: 602805623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 64
+        height: 145
+      alignment: 9
+      pivot: {x: 0.51100254, y: 0.14058596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d948fbd40d6d04b9a859363dba13c2
+      internalID: 81181887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 111
+        width: 96
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22410583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bf6d4e38e51c5448700edb266329e5
+      internalID: -1816417950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.30381346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c15b04f520fd408384483d1617449
+      internalID: 1182206142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_16
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 528
+        width: 130
+        height: 144
+      alignment: 9
+      pivot: {x: 0.50385696, y: 0.24931462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba8a169855da8740a56a05a31292804
+      internalID: 885458981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_17
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 832
+        width: 112
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.352887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738faa1c665171a49b9bef89d979b8b9
+      internalID: 1838503469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 192
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49848345, y: 0.17807369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4fa48797d1e24e8762e1ed54e087b
+      internalID: 1232260714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 400
+        width: 239
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 119.5, y: -51}
+        - {x: 119.5, y: 104}
+        - {x: -101.5, y: 104}
+        - {x: -105.5, y: 79}
+        - {x: -105.5, y: 71}
+        - {x: -119.5, y: 71}
+        - {x: -119.5, y: -104}
+        - {x: 84.5, y: -104}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf92925e0c15fae42b87384c69100f3d
+      internalID: 381064543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 608
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.22128513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd8f0febae10a34f8b20c943dd24ea6
+      internalID: 257507154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 743
+        width: 270
+        height: 271
+      alignment: 9
+      pivot: {x: 0.50979805, y: 0.22276683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 14, y: 100.5}
+        - {x: -135, y: 99.5}
+        - {x: -135, y: -115.5}
+        - {x: 19, y: -118.5}
+        - {x: 19, y: -135.5}
+        - {x: 135, y: -135.5}
+        - {x: 135, y: 121.5}
+        - {x: 115, y: 135.5}
+        - {x: 14, y: 135.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637b34f41c22ee447912afc98121f7f8
+      internalID: -1801631220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall_zridgesidebuildings_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 224
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 112, y: 120.5}
+        - {x: 54, y: 158.5}
+        - {x: -64, y: 158.5}
+        - {x: -112, y: 148.5}
+        - {x: -112, y: -158.5}
+        - {x: -50, y: -158.5}
+        - {x: -50, y: -143.5}
+        - {x: 49, y: -143.5}
+        - {x: 49, y: -158.5}
+        - {x: 112, y: -158.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e500513c00613c6489a4bbb9615d5bc0
+      internalID: 1459489160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 97a44185c841a854583b3fda4188c3b0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":992.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      fall_zridgesidebuildings_0: -706225429
+      fall_zridgesidebuildings_1: -1643801233
+      fall_zridgesidebuildings_10: -1982965865
+      fall_zridgesidebuildings_11: -779720988
+      fall_zridgesidebuildings_12: 602805623
+      fall_zridgesidebuildings_13: 81181887
+      fall_zridgesidebuildings_14: -1816417950
+      fall_zridgesidebuildings_15: 1182206142
+      fall_zridgesidebuildings_16: 885458981
+      fall_zridgesidebuildings_17: 1838503469
+      fall_zridgesidebuildings_18: 1232260714
+      fall_zridgesidebuildings_19: -1801631220
+      fall_zridgesidebuildings_2: 381064543
+      fall_zridgesidebuildings_20: 1736443138
+      fall_zridgesidebuildings_21: 1459489160
+      fall_zridgesidebuildings_3: 257507154
+      fall_zridgesidebuildings_4: -731143507
+      fall_zridgesidebuildings_5: 158988405
+      fall_zridgesidebuildings_6: -2087729938
+      fall_zridgesidebuildings_7: 1455888111
+      fall_zridgesidebuildings_8: 840126989
+      fall_zridgesidebuildings_9: 1626315726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

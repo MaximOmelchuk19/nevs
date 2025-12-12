@@ -1,0 +1,4 @@
+repository "Goblin Slayar 1/Goblin Slayar 1@7972513041617@cloud"
+  path "/"
+    br "/main"
+    co "/main"
